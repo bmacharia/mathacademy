@@ -1,1 +1,1 @@
-# mathacademy
+# Math Academy
